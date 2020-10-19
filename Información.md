@@ -36,34 +36,37 @@ En alguna parte del landing debemos poner un carrusel de fotos: capacitaciones, 
 * https://www.remaxblue.com/reclutamiento
 * https://www.reclutamiento-remax-distrito.com/
 
-
 ### Empresa que hace MLS:
 
-+ http://realtyserver.com/company.html
+* http://realtyserver.com/company.html
 
 ### Redes Sociales de Hugo:
 
-+ Instragram => https://instagram.com/remaxdiamondperu?igshid=fmguzbjgzis7
+* Instragram => https://instagram.com/remaxdiamondperu?igshid=fmguzbjgzis7
 
-+ Facebook => https://www.facebook.com/remaxdiamondperu/
+* Facebook => https://www.facebook.com/remaxdiamondperu/
 
-+ Linkedin => https://www.linkedin.com/company/remaxdiamondperu
-
+* Linkedin => https://www.linkedin.com/company/remaxdiamondperu
 
 ## Datos del formulario:
 
-+ Nombres.
-+ Teléfono.
-+ Correo electrónico.
-+ Redes.
-+ Dirección. 
-+ Número API WhatsApp.
-
+* Nombres.
+* Teléfono.
+* Correo electrónico.
+* Redes.
+* Dirección. 
+* Número API WhatsApp.
 
 **Modelo principal del Landing Page**
 
-+ https://remax-city.com.py/reclutamiento/
+* https://remax-city.com.py/reclutamiento/
 
 **Sitio Web de Re/max Diamont:**
 
-+ http://www.remax-diamond.pe/
+* http://www.remax-diamond.pe/
+
+Enlaces necesarios:
+
+* Canal de YouTube => https://www.youtube.com/channel/UCJjLCM_NTOL2r_eNVVQ-iOw
+
++ Video explicativo (Hugo) => https://www.youtube.com/watch?v=c5rHp0_NssA
