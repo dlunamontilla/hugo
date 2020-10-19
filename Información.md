@@ -58,3 +58,12 @@ En alguna parte del landing debemos poner un carrusel de fotos: capacitaciones, 
 + Redes.
 + Dirección. 
 + Número API WhatsApp.
+
+
+**Modelo principal del Landing Page**
+
++ https://remax-city.com.py/reclutamiento/
+
+**Sitio Web de Re/max Diamont:**
+
++ http://www.remax-diamond.pe/
