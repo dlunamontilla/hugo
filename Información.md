@@ -1,8 +1,17 @@
 # Información necesaria
 
-## Título
+## Se requiere
+Desarrollar una **Landing Page** con su página de ___Gracias__ con su **Ebook**. Debe tener un botón para seguir en **Facebook** e **Instagram**.
 
-### HAZ UN NEGOCIO POR TI MISMO, PERO EN EQUIPO
+Se debe incorporar a la página un **Carousel de Fotos**.
+
+## Copy (contenido):
+
+---
+
+### Título
+
+**HAZ UN NEGOCIO POR TI MISMO, PERO EN EQUIPO**
 
 Desempeñarte como agente inmobiliario es mudarte a la vida que quieres tener.
 
@@ -48,14 +57,21 @@ En alguna parte del landing debemos poner un carrusel de fotos: capacitaciones, 
 
 * Linkedin => https://www.linkedin.com/company/remaxdiamondperu
 
-## Datos del formulario:
+## Datos propuesto del formulario:
 
 * Nombres.
-* Teléfono.
+* apellidos.
 * Correo electrónico.
-* Redes.
+* Número de Teléfono.
+* Ciudad.
 * Dirección. 
-* Número API WhatsApp.
+* ¿Cuéntas con movilidad propia?
+* Redes.
+* Cuéntenos, por qué te gustaría ser **agente inmobiliario**
+
+Opcionalmente, se incluirá un botón de WhatsApp para que el usuario pueda enviar un mensaje a través de ese medio.
+
+Los datos a solicitar a través del formulario está sujeto a cambio. Se utilizó como modelo de formulario => https://remax-city.com.py/reclutamiento/
 
 **Modelo principal del Landing Page**
 
